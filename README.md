@@ -2,6 +2,8 @@
 
 This tool monitors a specific Discord channel for messages and automatically extracts invite codes to enter them into another application.
 
+## Demo Video
+
 ## Features
 
 - Uses Discord API to authenticate and fetch messages directly
