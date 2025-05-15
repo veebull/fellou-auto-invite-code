@@ -4,6 +4,9 @@ This tool monitors a specific Discord channel for messages and automatically ext
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/7ead73e7-b790-4fe3-a5ae-cae17bcada77
+
+
 ## Features
 
 - Uses Discord API to authenticate and fetch messages directly
