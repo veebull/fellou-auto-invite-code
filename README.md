@@ -1,4 +1,4 @@
-# Discord Channel Monitor
+# Discord Channel Monitor for Fellou Invite Codes
 
 This tool monitors a specific Discord channel for messages and automatically extracts invite codes to enter them into another application.
 
@@ -153,8 +153,6 @@ If you find this tool useful, consider supporting its continued development:
 
   - SOL: `AR37Ja9QMZyHKp4rZE9bfB9eEjpqQXfrJrpTQqNGWjRy`
   - SUI: `0x68da16b20707ed4d6a173200a2f1ae1bc89bbe432af5bd21a8747431e6cda136`
-
-
 
 Your support helps maintain this tool and develop new features.
 
