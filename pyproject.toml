@@ -1,0 +1,19 @@
+[project]
+name = "fellou-ivite-code"
+version = "0.1.0"
+description = "Fellou Invite Code"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyautogui (>=0.9.54,<0.10.0)",
+    "watchdog (>=6.0.0,<7.0.0)",
+    "requests (>=2.32.3,<3.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "fellou_ivite_code", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
