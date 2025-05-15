@@ -1,4 +1,4 @@
-\*\*\*\*# Discord Channel Monitor
+# Discord Channel Monitor
 
 This tool monitors a specific Discord channel for messages and automatically extracts invite codes to enter them into another application.
 
